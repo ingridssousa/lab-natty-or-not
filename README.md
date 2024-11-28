@@ -10,7 +10,5 @@ No mundo do entretenimento, especificamente no mundo da criação de jogos, atua
 Utilizei o chatGPT para criar um e-book sobre tudo da criação de jogos e os impactos, e apenas pedi os capítulos fossem mais elaborados. Também utilizei o chatGPT para criar a capa, mas que não foi utilizada.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
